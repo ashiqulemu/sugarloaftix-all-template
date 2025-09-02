@@ -650,6 +650,7 @@ section.default.contact-section .secTtile {
   z-index: 2;
   color: #fff !important;
   background-color: #6840fb;
+  display: none;
 }
 .card-style .project-name a {
   text-decoration: none;
